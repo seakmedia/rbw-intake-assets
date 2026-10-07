@@ -1,0 +1,7 @@
+Clinical body mesh adapted from MakeHuman community base.obj and female adult macrodetail targets.
+Source: https://github.com/makehumancommunity/makehuman/tree/master/makehuman/data
+The source asset headers explicitly dedicate these mesh and target assets to CC0 (September 2020).
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+Copyright holders credited in source: Data Collection AB, Joel Palmius, Jonas Hauquier; original target author Manuel Bastioni.
+Modifications: blended adult female targets, normalized scale, static mesh extraction, simplified clinical color rendering.
+Used as a communication aid, not a diagnostic anatomy model.
